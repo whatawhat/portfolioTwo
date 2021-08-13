@@ -3,6 +3,9 @@ body {
 /* font-family: Verdana, Geneva, Tahoma, sans-seriè; */
 }
 
+div {
+    color:rgb(233, 226, 135)
+}
 
 header {
     /* background-image: url("../../images/watercolor2.jpg");
