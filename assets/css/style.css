@@ -4,9 +4,11 @@ body {
 }
 
 header {
-    background-image: url("../../images/watercolor2.jpg");
-    background-repeat: no-repeat;
+    /* background-image: url("../../images/watercolor2.jpg");
+    background-repeat: no-repeat; */
+    background-color: #92140C;
     height: 300px;
+    
 }
 
 h1{
