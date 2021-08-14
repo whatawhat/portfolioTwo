@@ -361,75 +361,12 @@ footer {
         padding-left: 45px;
         text-align: center;
     }
-    
-    #important {
-        /* background-image: url("images/binary.jpg"); */
-        background-size: 0px;
-        color: darkblue;
-        width: 60%;
-        height: 50px;
-        text-align: center;
-        padding-top: 50px;
-        padding-left: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-        padding-right: 20px;
-    }
-    
+
     #section2 {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
         justify-content: center;
-    }
-    
-    #two {
-        /* background-image: url("images/chartcode.jpg"); */
-        background-size: 0px;
-        font-size: 100%;
-        color: darkblue;
-        width: 200px;
-        height: 75px;
-        text-align: center;
-        padding-top: 10px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    #three {
-        /* background-image: url("images/greenboard.jpg"); */
-        background-size: 0px;
-        font-size: 100%;
-        color: darkblue;
-        width: 200px;
-        height: 75px;
-        text-align: center;
-        padding-top: 10px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    #four {
-        /* background-image: url("images/csscode.jpg"); */
-        background-size: 0px;
-        font-size: 100%;
-        color: darkblue;
-        width: 200px;
-        height: 75px;
-        text-align: center;
-        padding-top: 10px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    #five {
-        /* background-image: url("images/code.jpg"); */
-        background-size: 0px;
-        font-size: 100%;
-        color: darkblue;
-        width: 200px;
-        height: 75px;
-        text-align: center;
-        padding-top: 10px;
-        margin-left: auto;
-        margin-right: auto;
     }
     
     #contactTop {
