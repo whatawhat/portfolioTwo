@@ -57,28 +57,28 @@ main {
 }
 
 #subbox {
-    /* padding-right: 20px; */
+    padding-right: 10px; 
     text-align: center;
     padding-left: 20px;
 }
 
-#aboutme {
+/* #aboutme {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-}
+} */
 
-#sdhead {
+/* #sdhead {
     max-width: 150px;
     max-height: 150px;
     padding-top: 10px;
     padding-bottom: 80px;
     margin-left: 50px;
-}
+} */
 
 #Abme {
-    width: 950px;
-    padding: 25px;
+    /* width: 950px; */
+    padding-right: 25px;
 }
 
 #Work {
