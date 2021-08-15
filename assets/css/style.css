@@ -89,12 +89,12 @@ span {
     font-size: 150%;
 }
 
-#repolink {
+.repolink {
     background-color: #92140C;
     color:#C1B4AE;
 }
 
-#deployedlink {
+.deployedlink {
     background-color: #BE5A38;
 }
 #section2 {
