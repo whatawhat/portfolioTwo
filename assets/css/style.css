@@ -136,8 +136,10 @@ ul li {
 }
 footer {
     text-align: center;
-    background-color: rgb(233, 226, 135);
-    padding: 20px;    
+    background-color: #92140C;
+    color: #C1B4AE;
+    padding: 20px;
+    font-size: 20px;  
 }
 
 @media screen and (max-width: 992px) {
