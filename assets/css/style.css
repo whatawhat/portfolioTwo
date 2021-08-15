@@ -235,16 +235,19 @@ footer {
         }
         
         #subbox {
-            flex-grow: 4;
+            /* flex-grow: 4; */
             padding-right: 20px;
             text-align: center;
         }
         
         #sdhead{
-            flex-grow: 2;
+            /* flex-grow: 2; */
             max-width: 100px;
             max-height: 100px;
             padding-top: 10px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         #Abme {
