@@ -55,26 +55,18 @@ main {
     padding-right: 10px; 
     text-align: center;
     padding-left: 20px;
+    /* margin-left: -225px; */
 }
-
-/* #aboutme {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-} */
-
-/* #sdhead {
-    max-width: 150px;
-    max-height: 150px;
-    padding-top: 10px;
-    padding-bottom: 80px;
-    margin-left: 50px;
-} */
 
 #Abme {
     /* width: 950px; */
     padding-right: 25px;
 }
+
+
+/* #subbox2 {
+    margin-left: -70px;
+} */
 #cardtop {
     background-color: #BE7C4D;;
     color:#353238;
@@ -120,10 +112,11 @@ span {
     text-align: center;
     padding-left: 20px;
 }
-#Contact {
+
+/* #Contact {
     text-align: center;
     margin-left: 200px;
-}
+} */
 
 ul li {
     display: inline;
@@ -131,10 +124,10 @@ ul li {
     color: black;
 }
 
-/* a {
-    color: black;
-} */
-
+#contact {
+    /* padding-left: -25px; */
+    margin-left: -225px;
+}
 .foot {
     color: black;
   
