@@ -123,8 +123,17 @@ span {
 ul li {
     display: inline;
     margin: 15px;
+    color: black;
 }
 
+/* a {
+    color: black;
+} */
+
+.foot {
+    color: black;
+  
+}
 footer {
     text-align: center;
     background-color: rgb(233, 226, 135);
