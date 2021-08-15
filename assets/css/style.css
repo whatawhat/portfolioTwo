@@ -221,9 +221,9 @@ footer {
             margin: 5px;
         }
         
-        main {
+        /* main {
             background-color: rgb(245, 207, 213);
-        }
+        } */
         
         #About {
             display: flex;
@@ -293,7 +293,8 @@ footer {
         
         footer {
             text-align: center;
-            background-color: rgb(233, 226, 135);
+            background-color: #92140C;
+            color: #C1B4AE;
             padding: 10px;    
         }
         
@@ -401,7 +402,8 @@ footer {
     
     footer {
         text-align: center;
-        background-color: rgb(233, 226, 135);
+        background-color: #92140C;
+        color: #C1B4AE;
         padding: 20px;    
     }
     
