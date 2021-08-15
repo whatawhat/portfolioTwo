@@ -91,11 +91,12 @@ span {
 
 .repolink {
     background-color: #92140C;
-    color:#C1B4AE;
+    color: white;
 }
 
 .deployedlink {
-    background-color: #BE5A38;
+    background-color: #C08773;
+    color: white;
 }
 #section2 {
     display: flex;
