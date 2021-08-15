@@ -302,8 +302,6 @@ footer {
 @media screen and (max-width: 576px) {
     
      header {
-        background-image: url("images/watercolor2.jpg");
-        background-repeat: no-repeat;
         height: 140px;
     }
     
