@@ -6,16 +6,10 @@ body {
 }
 
 header {
-    /* background-color: #92140C; */
     height: 200px;
     font-size: 20px;
-    /* margin-left: -13px;
-    margin-right: -13px; */
     width: 100vw;
     left: 0px;
-    /* background-position: inherit; */
-
-
 }
 
 #bodyheader {
@@ -42,6 +36,7 @@ h1{
     flex-wrap: nowrap;
     justify-content: space-evenly;
     color: #C1B4AE;
+    border-bottom: 20px;
 }
 
 a {
